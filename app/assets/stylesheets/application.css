@@ -78,7 +78,8 @@ img {
 }
 
 .left-block p {
-  font-family:'AmaticSCBold', Verdana, Geneva, sans-serif;
+  font-family: 'Amatic SC', cursive;
+  /*font-family:'AmaticSCBold', Verdana, Geneva, sans-serif;*/
   font-size: 53px;
   font-weight: normal;
   word-spacing:5px;
