@@ -19,9 +19,9 @@ body{
 }
 
 body .bottom p {
-  font-family: Roboto, HelveticaNeue, sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
   font-size: 14px;
-  font-weight: 200;
+  font-weight: 300;
   letter-spacing: 2px;
   line-height: 14px;
   color: #202020;
@@ -78,10 +78,9 @@ img {
 }
 
 .left-block p {
-  font-family: 'Amatic SC', cursive;
-  /*font-family:'AmaticSCBold', Verdana, Geneva, sans-serif;*/
+  font-family: 'Roboto Condensed', sans-serif;
   font-size: 53px;
-  font-weight: normal;
+  font-weight: 400;
   word-spacing:5px;
   letter-spacing: 0px;
   line-height: 55px;
@@ -124,7 +123,7 @@ ul.signup li {
     border-radius: 4px 4px 4px 4px;
     box-shadow: 0 1px 1px #999999 inset;
     color: #333333;
-    font-family: Arial,Helvetica,sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     font-size: 14px;
     font-weight: normal;
     height: 33px;
@@ -139,7 +138,7 @@ ul.signup li {
   border-radius:3px;
   color: #FFFFFF;
   cursor: pointer;
-  font-family: Helvetica,Arial,"Lucida Grande",sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
   font-size: 12px;
   font-weight: bold;
   height: 34px;
